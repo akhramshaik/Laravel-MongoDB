@@ -1,0 +1,18 @@
+1.rrotscope, scope, isolatedscope
+
+2.emit brodacast..
+
+3.directives declaration types...
+
+4.dif betwen service,provider...
+angular lifecycle.
+5. how do you declare constructor in js.
+
+mongoo...data setss...replica setss..
+
+
+--Abhi
+1.main deff betwenn abstract class n interfaces.
+2.my sql join....deep
+3. hw can u access a private construct in extended class. 
+4.design patterns php.
